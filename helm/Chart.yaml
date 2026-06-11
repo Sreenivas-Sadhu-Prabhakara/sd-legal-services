@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-legal-services
+description: "BIAN Service Domain: Legal Services (Provide Advice pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - provide-advice
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Legal Matter"
+  bian/control-record: "Legal Matter Advisory Session"
